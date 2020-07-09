@@ -1,3 +1,13 @@
+# Adding config.py file
+config.py
+
+# Adding additional files
+API_practice.ipynb
+Numpy Module Practice.ipynb
+Random Module Practice.ipynb
+Traversing JSONs.ipynb
+try-except.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,8 +34,8 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
-*.egg
-MANIFEST
+# .DS_Store
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
