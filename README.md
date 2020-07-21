@@ -29,3 +29,5 @@ Use Vacation_Itinerary to finally plan your trip! Based on your previous prefere
 Personally, I chose to plan a trip driving around Brazil. I will start my vacation in Alvorada and end in Bom Jesus. Along the way, I will also be stopping in Conceicao Do Araguaia and then Riachao. 
 
 Feel free to take a look at my vacation plans!
+
+<img src="weather_data/WeatherPy_travel_map.PNG" height="300">
